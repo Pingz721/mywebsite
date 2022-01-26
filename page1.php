@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>งานที่ 1</title>
+    <title style="color:blue;">ประวัติส่วนตัว</title>
   </head>
   <body bgcolor="lightblue">
     page1
