@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title style="color:blue;">ประวัติส่วนตัว</title>
+    <title style="color:darkblue;">ประวัติส่วนตัว</title>
   </head>
   <body bgcolor="lightblue">
     <h1><b>ชื่อ:</b><i>นางสาวเปี่ยมปีติ ปอแก้ว</i></h1>
