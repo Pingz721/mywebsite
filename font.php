@@ -4,11 +4,17 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("baozi.ttf");
+        src: url("FCParagraph[Non-commercial]-Bold.ttf");
       }
-      body{
+      @font-face{
+        font-family: "MyFont1";
+        src: url("FCParagraph[Non-commercial]-Bold.ttf");
+      }
+      #font1{
         font-family: "MyFont1";
       }
+      #font1{
+        font-family: "MyFont1";
     </style>
   </head>
   <body>
