@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("/Opun-Mai-Thin/Opun-Mai-Thin.ttf");
+        src: url("zh-cn.ttf");
       }
       #font1{
         font-family: "MyFont1";
