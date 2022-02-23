@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("TALullabyNM-LightItalic.ttf");
+        src: url("/SOV-3Dslim/SOV_3Dslim/SOV_3Dslim.ttf");
       }
       #font1{
         font-family: "MyFont1";
