@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("/SOV-3Dslim/SOV_3Dslim/SOV_3Dslim.ttf");
+        src: url("/whale/font-whale/Whale.ttf");
       }
       #font1{
         font-family: "MyFont1";
