@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("/whale/font-whale/Whale.ttf");
+        src: url("/Opun-Mai-Thin/Opun-Mai-Thin.ttf");
       }
       #font1{
         font-family: "MyFont1";
