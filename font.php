@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("FCParagraph[Non-commercial]-Bold.ttf");
+        src: url("FC-Paragraph/FCParagraph[Non-commercial]-Bold.otf");
       }
       @font-face{
         font-family: "MyFont2";
