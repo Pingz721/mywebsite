@@ -29,13 +29,13 @@
        <td>3</td>
        <td>Vox Akuma</td>
        <td><img src="https://pbs.twimg.com/media/FHLMO-aXwAU_rZS.jpg" width="100px"></td>
-       <td><a href=" ">Weibo<a/></td>
+       <td><a href="https://twitter.com/Vox_Akuma">Twitter<a/></td>
      </tr>
       
      <tr>
        <td>4</td>
-       <td>   </td>
-       <td><img src=" " width="100px"></td>
+       <td>Shirakami Fubuki</td>
+       <td><img src="https://c.tenor.com/6hMkSbSjHmgAAAAd/shirakamifubuki-hololive.gif" width="100px"></td>
        <td><a href=" ">Weibo<a/></td>
      </tr>
       
