@@ -13,14 +13,14 @@
       
      <tr>
        <td>1</td>
-       <td style="color:#B74907 ;>Hakken Ryou</td>
+       <td style="color:#B74907;>Hakken Ryou</td>
        <td><img src="https://pbs.twimg.com/media/DZnm95lVoAEYNDC?format=jpg&name=large" width="100px"></td>
        <td><a href="https://mobile.twitter.com/hakkenryou">Twitter<a/></td>
      </tr>
       
       <tr>
        <td>2</td>
-       <td style="color:#6E9733 ;>Xiao Zhan</td>
+       <td style="color:#6E9733;>Xiao Zhan</td>
        <td><img src="http://puui.qpic.cn/qqvideo_ori/0/c00332gzq50_496_280/0" width="100px"></td>
        <td><a href=" https://weibo.com/xiaozhan1">Weibo<a/></td>
      </tr>
