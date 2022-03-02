@@ -27,8 +27,8 @@
       
      <tr>
        <td>3</td>
-       <td>Ike</td>
-       <td><img src="https://i.ytimg.com/vi/EEiJdPflxR4/maxresdefault.jpg" width="100px"></td>
+       <td>Vox Akuma</td>
+       <td><img src="https://pbs.twimg.com/media/FHLMO-aXwAU_rZS.jpg" width="100px"></td>
        <td><a href=" ">Weibo<a/></td>
      </tr>
       
