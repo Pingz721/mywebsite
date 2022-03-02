@@ -34,7 +34,7 @@
       
      <tr>
        <td>4</td>
-       <td>Shirakami Fubuki</td>
+       <td style="color:#00BEC5;">Shirakami Fubuki</td>
        <td><img src="https://c.tenor.com/oQpuaXTmNUUAAAAC/shirakami-fubuki-virtual-youtuber.gif" width="100px"></td>
        <td><a href="https://twitter.com/shirakamifubuki">Twitter<a/></td>
      </tr>
